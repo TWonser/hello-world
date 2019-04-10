@@ -1,2 +1,5 @@
 # hello-world
-This is a repository
+
+Hello Everyone
+
+My name is Thomas Wonser, and I enjoy the weekends.

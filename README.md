@@ -1,3 +1,3 @@
 # hello-world
 
-My name is Thomas Wonser, and I enjoy the weekends.
+My name is Thomas Wonser, and this is for my English 235 Class
